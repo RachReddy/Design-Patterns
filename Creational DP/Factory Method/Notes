@@ -1,1 +1,4 @@
+FACTORY METHOD - Provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+(OR Defines an interface for creating objects but allows subclasses to alter the type of the object that will be creater)
+
 
